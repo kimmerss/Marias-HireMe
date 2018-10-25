@@ -1,0 +1,24 @@
+img{
+    height:300px;
+    border:dotted;
+}
+H1{
+    color:yellow;
+}
+H2{ 
+    color:orange;
+}
+p {
+    color:purple;
+}
+ol{
+    color:blue;
+}
+ul{
+    color:blue; 
+}
+body{
+    background-color:pink;
+    font-family:cursive;
+    
+}
